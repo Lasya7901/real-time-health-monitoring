@@ -100,6 +100,7 @@ http://localhost:8006/dashboard/P123
 🔗 [LinkedIn](https://linkedin.com/in/)  
 📫 Email: your.email@example.com
 
+
 ---
 
 > ⭐ Star this repo if you like it! Contributions and suggestions welcome.
