@@ -95,7 +95,7 @@ http://localhost:8006/dashboard/P123
 
 ## 🙋 About Me
 
-**Mahesh Maddileti**  
+**Lasya**  
 🎓 Fresher exploring health tech  
 🔗 [LinkedIn](https://linkedin.com/in/)  
 📫 Email: your.email@example.com
